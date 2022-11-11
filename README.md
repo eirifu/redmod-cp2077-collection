@@ -11,11 +11,12 @@ Only REDmod is required.
 I've applied this mod to several other games in the past (or deliberately carried less ammo) and I find the sweet spot to often be 5x your magazine or crafting capacity. Similar to the psychological effect of reloading in a video game, this encourages me to use more tools to finish a fight faster, or think before jumping in.
 I've also included a 10x variant.
 
-### New Capacities:
-- Pistol: 500 → 120
-- Rifle: 700 → 240
-- Shotgun: 100 → 60
-- Sniper: 100 → 40
+| Weapon  | Old | New | 10x |
+|---------|-----|-----|-----|
+| Pistol  | 500 | 120 | 240 |
+| Rifle   | 700 | 240 | 480 |
+| Shotgun | 100 | 60  | 120 |
+| Sniper  | 100 | 40  | 80  |
 
 ## Fixed Linear Upgrade Cost
 - Adjusts the item upgrade recipe to use less ingredients, and the associated Eurodollar value for Rare/Epic/Legendary recipes scale up.
@@ -26,18 +27,22 @@ After a lot of spreadsheet modeling, I've created two possible solutions:
 
 ### Version 4:
 
-- Common/Uncommon: 13 parts, €$62 → 9 parts, €$42
-- Rare: 21 parts, €$158 → 12 parts, €$78
-- Epic: 23 parts, €$206 → 15 parts, €$126
-- Legendary: 21 parts, €$202 → 18 parts, €$200
+| Part | Old | New | +10 Levels (New) |
+|--|--|--|--|
+| (Un)common | 13 parts, €$62 | 9 parts, €$42 |    €$ 2310 |
+| Rare     | 21 parts, €$158 | 12 parts, €$78 |    €$ 4290 |
+| Epic    | 23 parts, €$206 | 15 parts, €$126 |    €$ 6930 |
+| Legendary | 21 parts, €$202 | 18 parts, €$200 |  €$ 11,000 |
 
 ### Version 5:
 Version 5 removes "Crafting components" from the recipe entirely, making you only use "Upgrade components".
 
-- Common/Uncommon: 13 parts, €$62 → 6 parts, €$30
-- Rare: 21 parts, €$158 → 9 parts, €$44
-- Epic: 23 parts, €$206 → 12 parts, €$120
-- Legendary: 21 parts, €$202 → 15 parts, €$204
+| Part | Old | New | +10 Levels (New) |
+|--|--|--|--|
+| (Un)common | 13 parts, €$62 | 6 parts, €$30 |   €$ 1650 |
+| Rare      | 21 parts, €$158 | 9 parts, €$44 |   €$ 3630 |
+| Epic    | 23 parts, €$206 | 12 parts, €$120 |   €$ 6600 |
+| Legendary | 21 parts, €$202 | 15 parts, €$204 | €$ 11,220 |
 
 ## Untrack Quest
 - This is a REDmod rewrite of a mod that lets you right-click a quest marker on the map screen to remove it. In the base game, you can only right-click to remove custom markers.
