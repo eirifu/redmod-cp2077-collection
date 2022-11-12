@@ -51,3 +51,24 @@ Version 5 removes "Crafting components" from the recipe entirely, making you onl
 Sometimes it's nice to wander the world or try to find your own way to the quest without the subliminal influence of the minimap. It's not meant to stay off though, so as a side effect, the game will automatically switch to a new quest or quest update if you run into one.
 
 If you reopen the world map, you'll see a default quest reminder called "A Favor for a Friend". After examining the code, removing this requires a more extensive mod which I haven't done yet.
+
+
+## Install Instructions
+These mods are made to ONLY use REDmod, to maximise compatibility. This is the official mod-loading method - Cyber Engine Tweaks and redscript are unofficial methods and will break with every patch.
+
+**If you haven't prepared Cyberpunk 2077 for modding before:**
+1. Install REDmod from whereever you bought the game. (It's a free DLC)
+2. Go to your install folder and go to "\\Cyberpunk 2077\r6\cache"
+3. Make an empty folder called "modded".
+
+**To install mods:**
+1. In "\\Cyberpunk 2077\mods", place the MOD FOLDER ITSELF in here.
+2. If you did it correctly, the "info.json" file should be at "\\Cyberpunk 2077\mods\MOD FOLDER\info.json".
+3. Run REDlauncher. (Don't run the game directly.)
+4. Open the game settings, tick "Enable Mods", and press Play. The mods will be compiled.
+
+**To remove or turn off mods**
+- To uninstall a mod, delete the folder and go through REDLauncher again.
+- If you alter or update a mod file, empty the "modded" folder before running REDlauncher.
+- If you only use REDmod-based mods, you can play without mods without uninstalling them by unticking "Enable Mods" in the launcher.
+
