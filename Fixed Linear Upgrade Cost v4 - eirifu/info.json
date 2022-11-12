@@ -1,6 +1,6 @@
 {
-    "name": "Slightly Lower Upgrade Cost - eirifu",
-    "description": "Alters the upgrade costs to consider the Eurodollar value (Uncommon/Rare/Epic/Legendary costs approx. 40/80/120/200",
+    "name": "Slightly Lower Upgrade Cost - Version 4",
+    "description": "Alters the upgrade costs to consider the Eurodollar value",
     "version": "1.0.0",
     "customSounds":    [ ]
 }
