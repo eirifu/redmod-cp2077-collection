@@ -52,6 +52,29 @@ Sometimes it's nice to wander the world or try to find your own way to the quest
 
 If you reopen the world map, you'll see a default quest reminder called "A Favor for a Friend". After examining the code, removing this requires a more extensive mod which I haven't done yet.
 
+## Faux New Game Plus
+- Adds a number of benefits to a new game to speed things up a bit. Technically a cheat mod, but made with balance in mind.
+- This doesn't read another save game and import a character - this is more akin to the New Game Plus seen in Mass Effect 2 and Pillars of Eternity 2, which gives a small, balanced number of boosts and prizes if you import a save.
+
+The boosts and prizes are spread across three points in the game:
+
+#### In the character creation menu: 
+- The attribute point limit is now 1 to 20 instead of 3 to 6. (No extra points are added, so there's a soft cap of 18.)
+
+#### After rescuing Sandra Dorsett at the end of the Prologue:
+- Wakako gives you an extra 10,000 Street Cred XP, raising you to Cred Level 10.
+- You gain €$24,910 - enough to immediately buy the bot and pay Rogue, or just buy some upgrades.
+
+#### At the start of Act 2, you are given:
+- Adam Smasher's room keycard
+- All of the post-game legendary items rewarded in each ending path, which includes:
+- Legendary Gorilla Arms and Militech Berserk Mk.5
+- Caretaker's Spade and Rogue's Pistol "Pride"
+- Panam's Rifle "Overwatch", Cassidy's Pistol "Amnesty", and the Aldecados jacket
+- The "Genjiroh" Yukimura Pistol
+
+All the items spawn at your level by default, so it's not particularly overpowered.
+
 
 ## Install Instructions
 These mods are made to ONLY use REDmod, to maximise compatibility. This is the official mod-loading method - Cyber Engine Tweaks and redscript are unofficial methods and will break with every patch.
