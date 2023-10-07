@@ -4,6 +4,8 @@ Collection of small Cyberpunk 2077 REDmod mods.
 The theme of this collection is "Small change, Big impact". These are small tweaks that radically changed how I played Cyberpunk 2077 in my second playthrough.
 Only REDmod is required.
 
+These mods were written for **Cyberpunk 2077 Version 1.6**. The extensive source code changes in 2.0 makes these mods incompatible - yes, even the ammo loot mod.
+
 ## Stricter Ammo Limit
 - Lowers your ammo carry capacity to increase the risk of running out during a prolonged fight. The risk level is fairly low, but is within reach.
 - The ammo drops have also been slightly lowered (it now matches the magazine sizes of the weapons)
